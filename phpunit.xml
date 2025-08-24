@@ -17,6 +17,7 @@
          displayDetailsOnIncompleteTests="true">
     <testsuites>
         <testsuite name="Unit">
+            <directory>tests/NFT</directory>
             <directory>tests/Wallet</directory>
         </testsuite>
     </testsuites>
